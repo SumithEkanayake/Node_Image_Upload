@@ -1,0 +1,16 @@
+{
+  "name": "image_uploding_multer_node",
+  "version": "1.0.0",
+  "description": "Image uploading with multer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumith Ekanayake",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
